@@ -1,5 +1,4 @@
 # TS Ecommerce API
-======================
 
 ## Overview
 
